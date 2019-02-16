@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/eee">
+<WatchedResourced>WEB-INF/web.xml</WatchedResourced>
+<ResourceLink name="jdbc/concessionaria"
+              global="jdbc/altro"
+              auth="Container"
+              type="javax.sql.DataSource" />
+              </Context>
